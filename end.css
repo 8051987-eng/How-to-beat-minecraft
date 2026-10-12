@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+header{
+    background-color: darkmagenta;
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    color: white;
+}
